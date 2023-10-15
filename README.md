@@ -28,3 +28,4 @@ outfit_image_url = generate_outfit_image()
 # Display outfit suggestion and image URL
 print("Outfit Suggestion:", outfit_suggestion)
 print("Outfit Image URL:", outfit_image_url)
+
